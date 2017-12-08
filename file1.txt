@@ -1,12 +1,5 @@
 hello
-hi
-hello2
-Merge
-test
 
-hi thambu
+change from branch1 at 2.51pm
 
-merge from thambu
-fsd
-dshflsdj
-dsf
+change from branch2 at 2.52pm
