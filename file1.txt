@@ -1,5 +1,7 @@
 hello
 
 change from branch1 at 2.51pm
-
 change from branch2 at 2.52pm
+
+change2 made from branch1 at 8.12pm
+change2 made from branch2 at 8.13pm
